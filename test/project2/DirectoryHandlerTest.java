@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project1;
+package project2;
 
+import project2.DirectoryHandler;
 import java.io.File;
 import junit.framework.Test;
 import junit.framework.TestCase;

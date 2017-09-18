@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package project1;
+package project2;
 
+import project2.SaveDataHandler;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

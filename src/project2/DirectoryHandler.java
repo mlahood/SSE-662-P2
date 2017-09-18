@@ -1,8 +1,8 @@
-package project1;
+package project2;
 
 import java.io.File;
 import javax.swing.JFileChooser;
-import static project1.HomeGUI.errMessage;
+import static project2.HomeGUI.errMessage;
 
 /**
  * Directory Handler
